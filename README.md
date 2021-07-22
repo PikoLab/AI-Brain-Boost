@@ -1,7 +1,7 @@
 # AI-Brain-Boost(Front-End)
 The Fullstack AI project for Detecting Face!
 
-## 1. JWT & Session
+## 1. Authentication: JWT & Session
 ```
 const token=window.sessionStorage.getItem('token');
 
